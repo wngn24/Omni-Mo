@@ -1,0 +1,5 @@
+{
+  "name": "Personal OS",
+  "description": "A calm, local-first personal operating system with three modes: Do, Live, and Think.",
+  "requestFramePermissions": []
+}
